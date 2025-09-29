@@ -1,6 +1,6 @@
 [
   {
-    "provider": "Provider A",
+    "provider": "NatWest",
     "maxLtv": 0.75,
     "fixedRatePct": 6.25,
     "trackerRatePct": 5.9,
@@ -8,7 +8,7 @@
     "bookingFeeFixed": 995
   },
   {
-    "provider": "Provider B",
+    "provider": "Lloyds Bank",
     "maxLtv": 0.70,
     "fixedRatePct": 6.05,
     "trackerRatePct": 5.7,
@@ -16,7 +16,7 @@
     "bookingFeeFixed": 695
   },
   {
-    "provider": "Provider C",
+    "provider": "Santander",
     "maxLtv": 0.65,
     "fixedRatePct": 5.85,
     "trackerRatePct": 5.6,
