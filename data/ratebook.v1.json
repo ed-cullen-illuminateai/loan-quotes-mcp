@@ -8,7 +8,7 @@
     "bookingFeeFixed": 995
   },
   {
-    "provider": "Lloyds Bank",
+    "provider": "Cambridge and Counties Bank",
     "maxLtv": 0.70,
     "fixedRatePct": 6.05,
     "trackerRatePct": 5.7,
@@ -16,7 +16,7 @@
     "bookingFeeFixed": 695
   },
   {
-    "provider": "Santander",
+    "provider": "Cambridge and Counties Bank",
     "maxLtv": 0.65,
     "fixedRatePct": 5.85,
     "trackerRatePct": 5.6,
